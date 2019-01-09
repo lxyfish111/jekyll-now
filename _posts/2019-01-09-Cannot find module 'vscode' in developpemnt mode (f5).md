@@ -6,7 +6,7 @@ tags: [vscode]
 ---
 
 
-Copy from (https://github.com/SqrTT/prophet/issues/142)
+Copy from [the issues 142](https://github.com/SqrTT/prophet/issues/142)
 
 Run the command: npm install
 Also please make sure you are running vscode instance an not just run extension as node program.
